@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "source_revision": "e0b6f93bb8070b2c26da0db19e4baef5c5025dc2",
+  "source_revision": "8e8d14921d45d41f399a0c5843890c1e2ab9528a",
   "sdk_path": "sdk/stayo-swift",
   "files": {
     ".github/workflows/ci.yml": "ee50b67c9488b001d6132299b048dd37233ec7242b7394e74ca53e833b32f88f",
